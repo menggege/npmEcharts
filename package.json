@@ -1,0 +1,19 @@
+{
+  "name": "9cf-chart",
+  "version": "1.0.20",
+  "description": "大数据图表插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "limeng",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menggege/echarts.git"
+  },
+  "dependencies": {
+    "echarts": "^3.8.5",
+    "lodash-node": "^3.10.2"
+  }
+}
